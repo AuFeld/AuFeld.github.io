@@ -6,6 +6,9 @@ cover-img: /assets/img/path.jpg
 gh-repo: AuFeld
 tags: [football, english premier league]
 ---
+
+An analysis of how well football clubs in the English Premier League procure players in the Transfermarket.
+
 ## Introduction
 
 Thanks to lucrative TV Broadcasting deals for the rights to televise English Premier League (EPL) matches, club expenditures 
