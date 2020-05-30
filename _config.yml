@@ -179,7 +179,7 @@ kramdown:
 defaults:
   -
     scope:
-      path: "https://github.com/AuFeld/aufeld.github.io/tree/master/_posts"
+      path: ""
       type: "posts"
     values:
       layout: "post"
