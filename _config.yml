@@ -1,7 +1,7 @@
 # --- Basic options --- #
 
 # Name of website
-title: ChaseGoldfeld.com
+title: Portfolio
 
 # Short description of your site
 description: Portfolio Chase Goldfeld 
@@ -13,10 +13,10 @@ author: Chase Goldfeld
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  Skills:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Projects in Progress: "https://github.com/AuFeld?tab=stars"
 
 # --- Logo --- #
 
