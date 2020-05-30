@@ -19,21 +19,24 @@ In the 2010/2011 Season, football clubs in the EPL spent a total of $796m, an av
 players. Fast forward to the 2017/2018 Season, when EPL clubs spent a record of $2.481b, an average of $124m per club, to
 acquire new players from other clubs.
 
+
 ## Hypothesis Objectives
 
 - Are football clubs in the English Premier League better at procuring players then others? 
 - Identify club investment strategies for player acquisitions to achieve success in the EPL.
+
 
 ## Methodology
 
 Implement quantitative data collected from the web to measure key metrics:
 
 ### 1. Correlation Values relating to:
-#### - Club Expenditures per Season
-#### - Points Earned per Season
+- Club Expenditures per Season
+- Points Earned per Season
+
 ### 2. Feature Weights relating to:
-#### - Goals Scored
-#### - Goals Conceded
+- Goals Scored
+- Goals Conceded
 
 ## Results
 
