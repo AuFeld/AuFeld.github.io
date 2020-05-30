@@ -3,6 +3,7 @@ layout: post
 title: Transfermarket
 subtitle: Football Player Procurement Analysis 
 cover-img: /assets/img/path.jpg
+gh-repo: AuFeld
 tags: [football, english premier league]
 ---
 ## Introduction
