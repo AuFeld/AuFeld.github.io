@@ -29,24 +29,22 @@ semi-supervised, or supervised.
 I am able to develop complex financial or operational models that are statistically relevant and can help shape key business 
 strategies.
 
-## 6. Knowledge of Python
-
-## 7. Communication
+## 6. Communication
 Skillful communication: both verbal and written, is key. As a data scientist, I am able to use data to communicate 
 effectively with stakeholders. A data scientist stands at the intersection of business, technology, and data. Qualities like 
 eloquence and storytelling abilities help the scientist dilute complex technical information into something simple and 
 accurate to the audience. Another task with data science is to communicate to business leaders how an algorithm arrives at a 
 prediction.
 
-## 8. Data Wrangling and ETL
+## 7. Data Wrangling and ETL
 We have seen this with Python Data Wrangling. A lot of data I have worked with was messy: values were missing, inconsistent 
 formatting with dates and strings. I am profecient in cleaning, wrangling, and building an ETL pipeline.
 
-## 9. Data Visualizations
+## 8. Data Visualizations
 This is an essential part of data science, more then capable of describing and communicating my findings to 
 technical and non-technical audiences. Tools like Matplotlib, ggplot, or seaborn allow me to do just that. 
 
-## 10. Experience with SQL
+## 9. Experience with SQL
 SQL is a fourth-generation language; a domain-specific language designed to manage data stored in an RDMS 
 (Relational Database Management System) and for steam processing in an RDSMS (Relational Data Stream Management System). 
 I can use it to handle structured data in situations where variables of data relate to each other.
