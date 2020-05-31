@@ -10,7 +10,7 @@ estimators. A good data scientist will realize what technique is a valid approac
 help stakeholders make decisions, as well as designing and evaluating experiments.
 
 ## 2. Programming Skills
-Good skills in tools Python and a database querying language like SQL is expected as a data scientist. 
+Good skills in tools such as Python and a database querying language like SQL are expected as a data scientist. 
 I am comfortable carrying out different tasks of programming activities. I am capable of dealing with both 
 computational and statistical aspects of it.
 
