@@ -20,10 +20,11 @@ players. Fast forward to the 2017/2018 Season, when EPL clubs spent a record of 
 acquire new players from other clubs.
 
 
-## Hypothesis Objectives
+## Hypothesis
 
-- Are football clubs in the English Premier League better at procuring players then others? 
-- Identify club investment strategies for player acquisitions to achieve success in the EPL.
+Larger football clubs, known as the 'Big Six' (Manchester United, Manchester City, Liverpool, Chelsea, Tottenham, and
+Arsenal), in the English Premier League are better at procuring players in the Transfermarket then other clubs who have
+greater financial constraints.
 
 
 ## Methodology
@@ -46,7 +47,9 @@ Southampton, Tottenham, and West Hampton have the best positive correlation valu
 
 Since the 1995/1996 season, every EPL Club was identified as a 'Champion' or 'Relegated' (3 max) each season. In doing so, I was able to identify the features that corresponded to each label of 'Champion' or 'Relegated'. Excluding Goal Difference, Goals Scored had the highest feature importance when identifying key features relating to a 'Champion'. Again, excluding Goal Difference, Goals Conceded had the highest feature importance when identifying key features relating to clubs who were 'Relegated'. By identifying these key features we are able to determine that if a club wanted to focus purely on being 'Champions', then they should focus on acquiring players from the Transfermarket who will score goals. Since scoring goals costs money, teams with financial constraints should focus on acquiring defensive players to reduce the amount of goals conceded and decrease their chances of being 'Relegated'.
 
-![Cost of Goals in the EPL](https://miro.medium.com/max/1400/1*S660ehGKfSyTzGjdQBy3xA.png)
+![Cost of Goals in the EPL](https://miro.medium.com/max/1400/1*S660ehGKfSyTzGjdQBy3xA.png =250x250)
+
+## Conclusion
 
 ## Link to My Work
 
