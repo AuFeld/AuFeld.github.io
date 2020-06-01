@@ -68,7 +68,7 @@ By identifying these key features we are able to determine that if a club wanted
 Transfermarket who will score goals. Since scoring goals costs money, teams with financial constraints should focus on acquiring defensive players to reduce the amount of goals
 conceded and decrease their chances of being 'Relegated'.
 
-![Cost of Goals in the EPL](https://miro.medium.com/max/1400/1*S660ehGKfSyTzGjdQBy3xA.png =250x250)
+![Cost of Goals in the EPL](https://miro.medium.com/max/1400/1*S660ehGKfSyTzGjdQBy3xA.png)
 
 
 ## Link to My Work
