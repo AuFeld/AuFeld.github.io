@@ -73,5 +73,5 @@ conceded and decrease their chances of being 'Relegated'.
 
 ## Link to My Work
 
-![My Work](https://github.com/AuFeld/Transfermarket)
+[My Work](https://github.com/AuFeld/Transfermarket)
  
