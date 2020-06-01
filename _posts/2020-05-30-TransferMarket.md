@@ -34,15 +34,15 @@ Implement quantitative data collected from the web to measure key metrics:
 - Points Earned per Season
 
 ### 2| Corrlation Values:
-+1.0 = a perfect positive relationship between two variables
-+0.7 = a strong positive relationship
-+0.5 = a moderate positive relationship
-+0.3 = a weak positive relationship
-   0 = no relationship between two variables
--0.3 = a weak negative relationship
--0.5 = a moderate negative relationship
--0.7 = a strong negative relationship
--1.0 = a perfect negative relationship between two variables
+* +1.0 = a perfect positive relationship between two variables
+* +0.7 = a strong positive relationship
+* +0.5 = a moderate positive relationship
+* +0.3 = a weak positive relationship
+*    0 = no relationship between two variables
+* -0.3 = a weak negative relationship
+* -0.5 = a moderate negative relationship
+* -0.7 = a strong negative relationship
+* -1.0 = a perfect negative relationship between two variables
 
 
 ## Results
