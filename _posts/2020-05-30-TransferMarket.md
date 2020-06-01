@@ -37,7 +37,7 @@ Implement quantitative data collected from the web to measure key metrics:
 +1.0 = a perfect positive relationship between two variables  <br>
 +0.7 = a strong positive relationship  <br>
 +0.5 = a moderate positive relationship  <br>
-+0.3 = a weak positive relationship  <br>
++0.3 = a weak positive relationship  <br   >
    0 = no relationship between two variables  <br>
 -0.3 = a weak negative relationship  <br>
 -0.5 = a moderate negative relationship  <br>
@@ -58,6 +58,7 @@ relationship of -0.75 or greater between the money they spent to acquire new clu
 
 For every club in the EPL that has appeared in five seasons or more since the 2010/2011 season, there are only strong negative correlation values between money spent in the Transfermarket and the immeadiate points earned in the same season. It is evident that the null hypothesis is incorrect and should be rejected.  
 
+*** 
 
 ## Further Application of Study | Expenditure Strategy in the Transfermarket
 
