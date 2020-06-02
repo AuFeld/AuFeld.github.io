@@ -35,6 +35,7 @@ relative to the net income of the company. <br>
 
 # Key Takeaways
 
+<br>
 
 ### Moving Average
 
