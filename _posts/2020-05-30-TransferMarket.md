@@ -2,7 +2,7 @@
 layout: post
 title: Transfermarket
 subtitle: Football Player Procurement Analysis 
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/football.jpeg
 gh-repo: AuFeld
 tags: [football, english premier league]
 ---
@@ -58,9 +58,9 @@ relationship of -0.75 or greater between the money they spent to acquire new clu
 
 For every club in the EPL that has appeared in five seasons or more since the 2010/2011 season, there are only strong negative correlation values between money spent in the Transfermarket and the immeadiate points earned in the same season. It is evident that the null hypothesis is incorrect and should be rejected.  
 
-<br>
-*** 
-<br>
+
+***
+
 
 ## Further Application of Study: 
 #### Expenditure Strategy in the Transfermarket
@@ -75,7 +75,7 @@ conceded and decrease their chances of being 'Relegated'.
 ![Cost of Goals in the EPL](https://miro.medium.com/max/1400/1*S660ehGKfSyTzGjdQBy3xA.png)
 
 
-## Link to My Work
+## Link to My Code
 
-[My Work](https://github.com/AuFeld/Transfermarket)
+[My Code](https://github.com/AuFeld/Transfermarket)
  
