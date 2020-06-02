@@ -17,7 +17,7 @@ FastAPI with background tasks. Dashboard was built using Semantic UI. Users inte
 dividend yield.
 
 
-![Dashboard](./assets/img/stockscreener.png)
+![Dashboard](/assets/img/stockscreener.png)
 
 
 # Feature Definitions
@@ -51,14 +51,14 @@ If company A is trading for $5 and company B is trading for $10, it means the ma
 valued more. It could mean that company B's earnings are overvalued. It could also mean that company B deserves a premium on the value of its earnings due to superior management
 and a better business model.
 
-![Forward PE](./assets/img/forwardpe.png)
+![Forward PE](/assets/img/forwardpe.png)
 
 
 ### Forward EPS Ratio 
 
 Earnings per share (EPS) is a company's net profit divided by the number of common shares it has outstanding. EPS indicates how much money a company makes for each share of its stock and is widely used metric for corporate profits. A higher EPS indicates more value because investors will pay more for a company with higher profits. EPS can be arrived at in several forms, such as excluding extraordinary items or discounted operations, or on a diluted basis. 
 
-![EPS](./assets/img/eps.png)
+![EPS](/assets/img/eps.png)
 
 
 ### Dividend Yield 
@@ -69,7 +69,7 @@ Real estate investment trusts (REITs), master limited partnerships (MLPs), and b
 
 It's important for investors to keep in mind that higher dividend yields do not always indicate attractive investment opportunities because the dividend yield of a stock may be elevated as the result of a declining stock price.
 
-![Dividend Yield](./assets/img/divyield.png)
+![Dividend Yield](/assets/img/divyield.png)
 
 
 ## Link to My Code
