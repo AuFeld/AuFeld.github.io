@@ -74,4 +74,4 @@ It's important for investors to keep in mind that higher dividend yields do not 
 
 ## Link to My Code
 
-[My Work](https://github.com/AuFeld/screener_with_fastapi)
+[My Code](https://github.com/AuFeld/screener_with_fastapi)
