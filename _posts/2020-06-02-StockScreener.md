@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stock Screener
+title: Dashboard
 subtitle: Stock Screener with SQL and FastAPI
 cover-img: /assets/img/wallst.jpg
 gh-repo: AuFeld
