@@ -63,6 +63,8 @@ For every club in the EPL that has appeared in five seasons or more since the 20
 
 
 ## Further Application of Study: 
+<br>
+
 #### Expenditure Strategy in the Transfermarket
 
 Since the 1995/1996 season, every EPL Club was identified as a 'Champion' or 'Relegated' (three clubs are relegate) each season. In doing so, I was able to identify features that
