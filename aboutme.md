@@ -5,11 +5,10 @@ subtitle: Pivoting to Data Science
 ---
 
 My name is Chase Goldfeld. I studied Business Management, and I've always been fascinated by how different businesses operate 
-and what drives a business to move forward. I started my career on the sales side of business, and then decided to start my own business
-and earned my real estate license. As a self-starter, I always enjoyed the challenge of building my own business. However, while
-working with developers, I always felt that my impact was fairly limited. I realized that I could have a larger impact in my business 
-and my career if I learned how to: collect, process, analyze, and model data for potential financial returns of a real estate transaction 
-aided with data visualizations.
+and what drives a business to move forward. I started my career on the sales side of business. After honing my craft and being 
+a self-starter, I decided to start my own business and earned my real estate license. While working with developers, I always 
+felt that my impact was fairly limited. I realized that I could have a larger impact in my business and my career if I learned 
+how to: collect, process, analyze, and model data for potential financial returns of a real estate transaction.
 
 I love learning and witnessing first hand how tech was disrupting the real estate market, Data Science was a natural next step 
 towards making a greater impact in my career. It is early in my Data Science career and almost impossible to exactly point out 
