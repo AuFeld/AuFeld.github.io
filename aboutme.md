@@ -10,9 +10,9 @@ license. While working with real estate developers, I always felt that my impact
 have a larger impact in my business and my career if I learned how to: collect, process, analyze, and model data for potential 
 financial returns of a real estate transaction.
 
-I love learning and witnessing first hand how tech was disrupting the real estate market, Data Science was a natural next step 
-towards making a greater impact in my career. It is early in my Data Science career and almost impossible to exactly point out 
-what kind of a Data Scientist I will become. If I had to choose now, I would say:
+I love learning and witnessing first hand how the tech is disrupting the real estate market, Data Science is a natural next 
+step towards making a greater impact in my career. It is early in my Data Science career and almost impossible to exactly point 
+out what kind of a Data Scientist I will become. If I had to choose now, I would say:
 
 ### Type A Data Scientist
 
