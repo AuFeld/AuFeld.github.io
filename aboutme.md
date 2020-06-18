@@ -6,9 +6,7 @@ subtitle: Pivoting to Data Science
 
 I caught fire coding. 
 
-My dream job was to be a race car driver in the F1 circuit. I imagined myself
-always pushing the car to the edge of its capabilities to win a race while travelling the world.
-It seemed like an appropriate dream at the time as I was young and fearless. Like most teenagers, I didn't get behind the wheel of a car until I was 15 with a learner's permit. I was disappointed to learn that most F1 drivers start driving and competing in go karts between the ages of 7 and 12. I missed my calling, but I was still hungry to find my passion and my calling. 
+My dream job was to be a race car driver in the F1 circuit. I imagined myself always pushing the car to the edge of its capabilities to win a race while travelling the world. It seemed like an appropriate dream at the time as I was young and fearless. Like most teenagers, I didn't get behind the wheel of a car until I was 15 with a learner's permit. I was disappointed to learn that most F1 drivers start driving and competing in go karts between the ages of 7 and 12. I missed my calling, but I was still hungry to find my passion and my calling. 
 
 I gravitated towards business and earned my bachelor's degree in business management. I was fascinated by how different businesses operate and what drives a business to move forward. As a fearless self-starter, I decided to start my own business and earned my real estate license. I did well, but when I worked with real estate developers, I always felt that I was missing an edge over the competition. I realized I could gain an edge over my competition, just like in a F1 race, if I learned how to collect, process, and analyze data to accurately model financial returns for developers.
 
