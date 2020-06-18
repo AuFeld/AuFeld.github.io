@@ -4,29 +4,14 @@ title: About Me
 subtitle: Pivoting to Data Science
 ---
 
-My name is Chase Goldfeld. I studied Business Management, and I've always been fascinated by how different businesses operate 
-and what drives a business to move forward. As a self-starter, I decided to start my own business and earned my real estate 
-license. While working with real estate developers, I always felt that my impact was fairly limited. I realized that I could 
-have a larger impact in my business and my career if I learned how to: collect, process, analyze, and model data for potential 
-financial returns of a real estate transaction.
+I caught fire coding. 
 
-I love learning and witnessing first hand how the tech industry is disrupting the real estate market, Data Science is a natural next step towards making a greater impact in my career. It is early in my Data Science career and almost impossible to exactly point out what kind of a Data Scientist I will become. If I had to choose now, I would say:
+My dream job was to be a race car driver in the F1 circuit. I imagined myself
+always pushing the car to the edge of its capabilities to win a race while travelling the world.
+It seemed like an appropriate dream at the time as I was young and fearless. Like most teenagers, I didn't get behind the wheel of a car until I was 15 with a learner's permit. I was disappointed to learn that most F1 drivers start driving and competing in go karts between the ages of 7 and 12. I missed my calling, but I was still hungry to find my passion and my calling. 
 
-### Type A Data Scientist
+I gravitated towards business and earned my bachelor's degree in business management. I was fascinated by how different businesses operate and what drives a business to move forward. As a fearless self-starter, I decided to start my own business and earned my real estate license. I did well, but when I worked with real estate developers, I always felt that I was missing an edge over the competition. I realized I could gain an edge over my competition, just like in a F1 race, if I learned how to collect, process, and analyze data to accurately model financial returns for developers.
 
-The A is for Analysis. This type is primarily concerned with making sense of data or working with it in a fairly static way. 
-The Type A Data Scientist is very similar to a statistician (and may be one) but knows all the practical details of working 
-with data that aren’t taught in the statistics curriculum: data cleaning, methods for dealing with very large data sets, 
-visualization, deep knowledge of a particular domain, writing well about data, and so on.
+I love learning and witnessing first hand how the tech industry is disrupting the real estate market, Data Science is naturally the next step in my career. It is early in my Data Science career and almost impossible to exactly point out what kind of a Data Scientist I will become. However, my specialties include problem solving, data visualizations, machine learning, and quickly learning new skills and programming languages to gain an edge over my competition. 
 
-### Detective 
-
-If you choose to emphasize data analysis, you can become a Detective, a master in discovering the right data and using it to 
-draw conclusions. A detective is familiar with modeling and engineering methods, and uses them in a lightweight way. Analysis 
-is their focus.
-
-### Oracle
-
-Another data scientist archetype is the Oracle, someone who has mastered the skills of modeling and the tools of machine 
-learning. They will have had exposure to analysis and engineering but their focus will be on modeling—either general machine 
-learning models or custom, domain specific models.
+Just like when I was young and fearless, I still imagine myself travelling the world and relocating to the next circuit for my next race.
