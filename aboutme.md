@@ -4,7 +4,7 @@ title: About Me
 subtitle: Pivoting to Data Science
 ---
 
-I caught fire coding. 
+I love big data and I cannot lie. 
 
 My dream job was to be a race car driver in the F1 circuit. I always imagined myself pushing the car to the edge of its capabilities to win a race while travelling the world. It seemed like an appropriate dream at the time as I was young and fearless. Like most teenagers, I didn't get behind the wheel of a car until I was 15 with a learner's permit. I was disappointed to learn that most F1 drivers start driving and competing in go karts between the ages of 7 and 12. I missed my calling, but I was still hungry to find my passion.
 
