@@ -4,7 +4,7 @@ title: Dashboard
 subtitle: Stock Screener with SQL and FastAPI
 cover-img: /assets/img/wallst.jpg
 gh-repo: AuFeld
-tags: [FastAPI, SQLAlchemy, dashboard, Semantic UI]
+tags: [FastAPI, SQLAlchemy, Dashboard, Semantic UI]
 ---
 
 A stock screener that extracts data from the yfinance API to a SQLAlachemy database and deployed on a FastAPI dashboard.
@@ -71,7 +71,10 @@ It's important for investors to keep in mind that higher dividend yields do not 
 
 ![Dividend Yield](/assets/img/divyield.png)
 
+--- 
+
 # Tech Stack
+<br>
 
 #### FastAPI | SQLAlchemy | Semantic UI
 <br>
