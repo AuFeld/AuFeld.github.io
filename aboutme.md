@@ -12,4 +12,4 @@ I gravitated towards business and earned my bachelor's degree in business manage
 
 I love learning and witnessing first hand how the tech industry is disrupting the real estate market, Data Science is naturally the next step in my career. It is early in my Data Science career and almost impossible to exactly point out what kind of a Data Scientist I will become. However, my specialties include problem solving, data visualizations, machine learning, and quickly learning new skills and programming languages to gain an edge over my competition. 
 
-Just like when I was young and fearless, I still imagine myself travelling the world and relocating to the next circuit for my next race.
+Just like when I was young and fearless, I still imagine myself travelling the world and relocating to the next race.
