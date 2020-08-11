@@ -7,9 +7,6 @@ gh-repo: AuFeld
 tags: [football, english premier league]
 ---
 
-
-# Introduction
-
 The market to procure a player who is currently under contract by another club is known as the Transfermarket. Thanks to lucrative TV Broadcasting deals for the rights to televise English Premier League (EPL) matches, club expenditures to acquire new players since 2010 has skyrocketed.  In the 2010/2011 Season, football clubs in the EPL spent a total of $796m, an average of $39.84m per club, to acquire new players. Fast forward to the 2017/2018 Season, when EPL clubs spent a record of $2.481b, an average of $124m per club, to acquire new players from other clubs.
 
 ![EPL Transfermarket Expenditures per Season](https://miro.medium.com/max/790/1*Eljiu83E74Zd7ZTpBLiUKA.png)
