@@ -7,7 +7,7 @@ gh-repo: AuFeld
 tags: [FastAPI, SQLAlchemy, dashboard, Semantic UI]
 ---
 
-A stock screener that extracts data from the yfiancne API to a SQLAlachemy database and deployed on a FastAPI dashboard.
+A stock screener that extracts data from the yfinance API to a SQLAlachemy database and deployed on a FastAPI dashboard.
 
 # Description
 
@@ -71,7 +71,11 @@ It's important for investors to keep in mind that higher dividend yields do not 
 
 ![Dividend Yield](/assets/img/divyield.png)
 
+# Tech Stack
 
-## Link to My Code
+#### FastAPI | SQLAlchemy | Semantic UI
+<br>
+
+# Link to My Code
 
 [My Code](https://github.com/AuFeld/screener_with_fastapi)
