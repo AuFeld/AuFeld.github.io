@@ -71,8 +71,10 @@ conceded and decrease their chances of being 'Relegated'.
 --- 
 
 # Tech Stack
+<br>
 
 #### Jupyter Notebook | Scikit-learn | Matplotlib | Seaborn | Eli5
+<br>
 
 # Link to My Code
 

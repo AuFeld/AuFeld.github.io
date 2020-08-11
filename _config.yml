@@ -16,7 +16,7 @@ navbar-links:
   Skills: "skills"
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
-  Projects in Progress: "https://github.com/AuFeld?tab=stars"
+  #Projects in Progress: "https://github.com/AuFeld?tab=stars"
 
 # --- Logo --- #
 
