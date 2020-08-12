@@ -11,11 +11,11 @@ The market to procure a player who is currently under contract by another club i
 
 ![EPL Transfermarket Expenditures per Season](https://miro.medium.com/max/790/1*Eljiu83E74Zd7ZTpBLiUKA.png)
 
+--- 
+
 # Hypothesis
 
-Football club's expenditures in the Transfermarket has no immediate impact of points earned in the English Premier League. 
-
---- 
+Football club's expenditures in the Transfermarket has no immediate impact of points earned in the English Premier League.  
 
 # Methodology
 

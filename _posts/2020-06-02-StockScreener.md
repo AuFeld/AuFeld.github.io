@@ -7,10 +7,6 @@ gh-repo: AuFeld
 tags: [FastAPI, SQLAlchemy, Dashboard, Semantic UI]
 ---
 
-A stock screener that extracts data from the yfinance API to a SQLAlachemy database and deployed on a FastAPI dashboard.
-
-# Description
-
 A stock screener that extracts data from the yfinance API to a SQLAlchemy database. Deploys data to a dashboard utilizing
 FastAPI with background tasks. Dashboard was built using Semantic UI. Users interactively sort and filter stock related data by: closing price, 
 50 day moving average, 200 day moving average, foward price to earnings ratio, forward earnings per share ratio, and
