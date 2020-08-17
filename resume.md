@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resume
-subtitle: 
+subtitle: via PDF
 ---
 
-# Check out [my resume](/assets/CG_Resume.pdf)
+# Feel free to check out [my resume](/assets/CG_Resume.pdf). 
