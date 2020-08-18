@@ -33,6 +33,8 @@ Two essential statistics for the Naive Bayes Algorithm, mean and variance. By cr
 
 In lehman's terms the mean is defined as the sum of values divided by how many values you have. Variance is calculated by taking the differences between each number in the data set and the mean, then squaring the differences to make them positive, and finally dividing the sum of the squares by the number of values in the data set. 
 
+**Visual Representation of Variance**: 
+
 ![Variance](/assets/img/naive_bayes/variance.png)
 
 A tree traversal was decided so the algorithm visits each node only once, in order, in the data structure. The traversal is classified by the order in which the nodes are visited.
