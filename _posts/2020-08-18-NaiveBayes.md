@@ -65,7 +65,7 @@ The next step, was to implement the **calculate mean and variance** method for e
 
 # Conclusion
 
-With an accuracy score of 56%, the model performed 14.92 basis points below the establish baseline of 71%. The major factor that contributed to this result was from dropping the features with cardinality. Identified in the [exploratory data analysis]('https://github.com/AuFeld/student_performance/blob/master/EDA.ipynb'), these features were initially dropped for the simplicty of understanding the algorithm without the additional steps required for categorical encoding. Because the categorical features were not included, the accuracy score of the model was recorded below the established baseline.
+With an accuracy score of 56%, the model performed 14.92 basis points below the establish baseline of 71%. The major factor that contributed to this result was from dropping the features with cardinality. Identified in the [exploratory data analysis](https://github.com/AuFeld/student_performance/blob/master/EDA.ipynb), these features were initially dropped for the simplicty of understanding the algorithm without the additional steps required for categorical encoding. Because the categorical features were not included, the accuracy score of the model was recorded below the established baseline.
 
 ![Baseline](/assets/img/naive_bayes/nb_results.png)
 
