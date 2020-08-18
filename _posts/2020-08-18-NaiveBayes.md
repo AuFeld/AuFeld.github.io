@@ -7,7 +7,7 @@ gh-repo: AuFeld
 tags: [algorithm, naive bayes]
 ---
 
-During COVID and and an impending hurricane, I found myself going down a rabbit-hole about the Naive Bayes Algorithm. I was particualary drawn to it because of its utility, to be able to calculate the likelihood of an event to occur. When I came across the UCI data set for student performance, I knew that I would be able to identify a problem that I could solve with the Naive Bayes Algorithm. I could have imported a libray, created a pipeline, and input the values, but that would have been too easy and I would have missed out on the opportunity to understand how the Naive Bayes Algorithm is engineered.
+During COVID and an impending hurricane, I found myself going down a rabbit-hole about the Naive Bayes Algorithm. I was particualary drawn to it because of its utility, to be able to calculate the likelihood of an event to occur. When I came across the UCI data set for student performance, I knew that I would be able to identify a problem that I could solve with the Naive Bayes Algorithm. I could have imported a libray, created a pipeline, and input the values, but that would have been too easy and I would have missed out on the opportunity to understand how the Naive Bayes Algorithm is engineered.
 
 Naive Bayes is a probabilistic machine learning algorithm based on Bayes Theorem, which is primarily used for classification problems.  
 
