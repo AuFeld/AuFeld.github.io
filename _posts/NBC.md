@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Naive Bayes Classifier
-subtitle: CS Build
+subtitle: An Algorithm from Scratch
 cover-img: 
 gh-repo: AuFeld
-tags: []
+tags: [algorithm, naive bayes]
 ---
 
 ## Why Naive Bayes Classifier?
