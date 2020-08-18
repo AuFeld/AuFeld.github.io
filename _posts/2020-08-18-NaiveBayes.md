@@ -37,7 +37,7 @@ In lehman's terms the mean is defined as the sum of values divided by how many v
 
 ![Variance](/assets/img/naive_bayes/variance.png)
 
-A tree traversal was decided so the algorithm visits each node only once, in order, in the data structure. The traversal is classified by the order in which the nodes are visited.
+A tree traversal was decided so the algorithm visits each node only once, in order in the data structure. The traversal is classified by the order in which the nodes are visited.
 
 ![Mean and Variance](/assets/img/naive_bayes/nb_algo_variance_and_mean.png)
 
