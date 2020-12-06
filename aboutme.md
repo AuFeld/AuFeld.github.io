@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-subtitle: Pivoting to Data Science
+subtitle: Pivoting to Data
 ---
 
 I love big data and I cannot lie. 
