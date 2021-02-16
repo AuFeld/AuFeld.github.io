@@ -12,7 +12,7 @@ author: Chase Goldfeld
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  # About Me: "aboutme"
   Skills: "skills"
   Resume: "/assets/Chase_Goldfeld_Data_Engineer_Resume.pdf"
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
