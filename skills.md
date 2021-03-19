@@ -4,7 +4,7 @@ title: Skills
 subtitle: Technical Skills
 ---
 
-# 1. Knowledge of Machine Learning
+# 1. Computer Science
 
 Machine Learning is a subset of Artificial Intelligence that uses statistical methods to make computers capable of learning 
 with data. For this, they shouldn’t need to be explicitly programmed. With Machine Learning, projects such as like self-driving cars, 
@@ -30,11 +30,11 @@ SQL is a fourth-generation language; a domain-specific language designed to mana
 (Relational Database Management System) and for steam processing in an RDSMS (Relational Data Stream Management System). 
 I can use it to handle structured data in situations where variables of data relate to each other.
 
-# 5. Computer Science
+# 5. Data Engineering
 
 In data science, computer science and statistics converge. As a data scientist, I can use statitical principals to write code that can effectively explore the problem at hand. This necessitates at least a basic understanding of data structures, algorithms, and time-space complexity so I can program more efficiently. With larger datasets, this becomes particularly important. The way that I write my code influences the speed at which data is analyzed and conclusions can be reached accordingly. With a clear understanding of Big O notation as a method for describing time-space complexity, I can effectively write better code as it relates to data structures and algorithms. 
 
-# 6. Data Visualizations
+# 6. Data Science
 
 This is an essential part of data science, more then capable of describing and communicating my findings to 
 technical and non-technical audiences. Tools like Matplotlib, Google Analytics, and Seaborn allow me to create a picture of understanding when stroytelling about data.  
