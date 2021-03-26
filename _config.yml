@@ -14,7 +14,7 @@ author: Chase Goldfeld
 navbar-links:
   About Me: "aboutme"
   # Skills: "skills"
-  Resume: "/assets/Chase_Goldfeld_Data_Engineer_Resume.pdf"
+  Resume: "/assets/Chase_Goldfeld_Engineer_Resume.pdf"
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
   #Projects in Progress: "https://github.com/AuFeld?tab=stars"
