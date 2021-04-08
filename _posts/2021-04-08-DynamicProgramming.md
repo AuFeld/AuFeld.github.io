@@ -36,7 +36,7 @@ With this approach, the problem is broken down and if the problem is solved alre
 This is an effective way of avoiding recursion by decreasing the time complexity that recursion builds up (eg, memory cost because of recalculation of the same values). Here, the solutions to small problems are calculated which builds up the solution to the overall problem. 
 
 # Example Problem, the Fibonacci Sequence
-
+<br>
 
 #### What is the Fibonacci Sequence?
 
