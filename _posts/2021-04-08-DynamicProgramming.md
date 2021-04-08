@@ -31,7 +31,7 @@ If you notice that the problem can be broken into much smaller ones and some of 
 
 With this approach, the problem is broken down and if the problem is solved already then the saved value is returned, otherwise, the value of the function is memoized. In other words, it will be calculated for the first time, every other time, and the saved value will be called back. **Memoization** is a great method for computationally expensive programs. 
 
-#### 2. Bottom(s)-Up Approach
+#### 2. Bottom-Up Approach
 
 This is an effective way of avoiding recursion by decreasing the time complexity that recursion builds up (eg, memory cost because of recalculation of the same values). Here, the solutions to small problems are calculated which builds up the solution to the overall problem. 
 
