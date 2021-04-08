@@ -22,10 +22,10 @@ Optimization. Sometimes, executing recursion can involve repetitive computations
 
 # When and Where should Dynamic Programming be used?
 
-If you notice that the problem can be broken into much smaller ones and some of these have overlap (eg, requires the computation of previously calculated values). The main goal is to optimize the code by reducing the repetition of values by storing the results of sub-problems, so they do not have to be calculated again (this is where the additional space and time is used). 
+If you notice that the problem can be broken into much smaller ones and some of these have overlap (eg, requires the computation of previously calculated values). The main goal is to optimize the code by reducing the repetition of values by storing the results of sub-problems, so they do not have to be calculated again. 
 
 # How is Dynamic Programming applied?
-
+<br>
 
 #### 1. Top-Down Approach, aka Memoization
 
