@@ -4,7 +4,7 @@ title: Dynamic Programming
 subtitle: It's not you, it's me!
 cover-img: /assets/img/path.jpg
 gh-repo: AuFeld
-tags: [dynamic programming, fibonacci, algorithm]
+tags: [dynamic programming, fibonacci]
 ---
 
 "Documentation is like sex. When it's good, it's very good. When it's bad, it's better than nothing."
