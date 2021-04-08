@@ -61,7 +61,7 @@ If you wanted to write a function for the above sequence it would look like this
 ```
 <br>
 
-As previously mentioned, this solution is not very effecient because there are computations that we need to repeat over and over again. What do I mean by that? Here's a visual. 
+As previously mentioned, this solution is not very effecient because there are computations that we need to repeat over and over again. What do I mean by that? Here's a visualization. 
 
 
 ![Fibonacci](/assets/FibunacciBreakDown.png)
