@@ -59,13 +59,14 @@ If you wanted to write a function for the above sequence it would look like this
         return result 
 
 ```
+<br>
 
 ### The above solution works, but it's not great (optimal). 
 
 As previously mentioned, this solution is not very effecient because there are computations that we need to repeat over and over again. What do I mean by that? Here's a visual. 
 
 
-![Fibonacci](/assets/img/FibunacciBreakDown.png)
+![Fibonacci](/assets/FibunacciBreakDown.png)
 
 
 The red squares represent fib(2) that need to be computed three times, also fib(1) in orange and fib(3) in yellow, each need to be computed twice. No bueno. 
@@ -80,7 +81,7 @@ Here's a break down of implementing memoization for our example problem:
 
 
 
-![Memo](/assets/img/memoization.png)
+![Memo](/assets/memoization.png)
 
 
 
@@ -97,6 +98,7 @@ Here's a break down of implementing memoization for our example problem:
             return res
 
 ```
+<br>
 
 # Solution, Bottom-Up
 
@@ -117,6 +119,7 @@ This approach down not use recursion at all. We created an empty list of length 
 
 
 ```
+<br>
 
 As you can see Dynamic Programming is very efficient for optimizing code. It is simple and easy to understand, however it will take practice to fully grasp its utilization. 
 
