@@ -64,7 +64,7 @@ If you wanted to write a function for the above sequence it would look like this
 As previously mentioned, this solution is not very effecient because there are computations that we need to repeat over and over again. What do I mean by that? Here's a visualization. 
 
 
-![Fibonacci](/assets/FibunacciBreakDown.png)
+![Fibonacci](/assets/fib.png)
 
 
 The red squares represent fib(2) that need to be computed three times, also fib(1) in orange and fib(3) in yellow, each need to be computed twice. No bueno. 
