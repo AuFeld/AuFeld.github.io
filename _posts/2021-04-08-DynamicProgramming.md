@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dynamic Programming
-subtitle: It's not you, it's me!
+subtitle: It's not you, it's me
 cover-img: /assets/img/path.jpg
 gh-repo: AuFeld
 tags: [dynamic programming, fibonacci]
