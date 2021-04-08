@@ -42,7 +42,7 @@ This is an effective way of avoiding recursion by decreasing the time complexity
 
 It is when the previous two numbers in a list is the sum of the next number in the sequence. 
 
-**Fib = [1, 1, 2, 3, 5, 8]**
+**fib = [1, 1, 2, 3, 5, 8]**
 
 If you wanted to write a function for the above sequence it would look like this: 
 
