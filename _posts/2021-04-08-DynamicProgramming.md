@@ -18,7 +18,7 @@ Dynamic Programming is the process of simplifying a complicated problem by break
 
 # Why should we care about Dynamic Programming?
 
-Optimization. Sometimes, executing recursion can involve repetitive computations and require a lot of resources and time to compute, like O(2<sup>n</sup>) long. Not as long as O(n!), but in terms of growth rates, exponential computatations add up very quickly. 
+Optimization. Sometimes, executing recursion can involve repetitive computations and require a lot of resources and time to compute, like O(2<sup>n</sup>) long. Not as long as O(n!), but in terms of growth rates, exponential computations add up very quickly. 
 
 # When and Where should Dynamic Programming be used?
 
