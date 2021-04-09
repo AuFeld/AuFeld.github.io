@@ -12,27 +12,27 @@ subtitle: Technical Skills
 
 # Data Engineering
 
-* SQL: MySQL | PostgreSQL | SQLAlchemy
+* SQL: MySQL, PostgreSQL, and SQLAlchemy
 * NoSQL: MongoDB
-* Frameworks: FastAPI | Flask | Heroku
+* Frameworks: FastAPI, Flask, and Heroku
 * Containerization with Docker
 * Data Modeling with Apache Cassandra
-* Python Libraries: Pandas | Numpy
+* Python Libraries: Pandas and Numpy
 * Redis
 * ETL Pipelines with Apache Airflow
 
 # Computer Programming
 
-* Languages: Python | SQL | Scala
+* Languages: Python, SQL, and Scala
 * Jupyter
-* OS: Linux | Mac | Windows
+* OS: Linux, Mac, and Windows
 * Git 
 * Bash
 
 # Cloud Computing with AWS
 
 * ML Deployment with Elastic Beanstalk
-* Storage: S3 | RDS
+* Storage: S3 and RDS
 * EC2
 * Elasticsearch
 
