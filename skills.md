@@ -4,12 +4,6 @@ title: Skills
 subtitle: Technical Skills
 ---
 
-## Problem Solving with Computer Science
-
-* Algorithms
-* Data Structures
-* Dynamic Programming
-
 ## Data Engineering
 
 * SQL: MySQL, PostgreSQL, and SQLAlchemy
@@ -20,6 +14,7 @@ subtitle: Technical Skills
 * Python Libraries: Pandas and Numpy
 * Redis
 * ETL Pipelines with Apache Airflow
+* Monitoring with Grafana and Prometheus
 
 ## Computer Programming
 
@@ -36,11 +31,17 @@ subtitle: Technical Skills
 * EC2
 * Elasticsearch
 
+## Problem Solving with Computer Science
+
+* Algorithms
+* Data Structures
+* Dynamic Programming
+
 ## Machine Learning
 
 * Regression
 * Neural Networks
-* NLP
+* Natural Language Processing
 * Statistics
 * Tensorflow
 
