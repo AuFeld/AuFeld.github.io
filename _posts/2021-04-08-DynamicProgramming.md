@@ -7,7 +7,6 @@ gh-repo: AuFeld
 tags: [dynamic programming, fibonacci]
 ---
 
-"Documentation is like sex. When it's good, it's very good. When it's bad, it's better than nothing."
 
 # What is Dynamic Programming?
 
