@@ -9,4 +9,4 @@ tags: [aws, docker, etl, data modeling, data warehouse, data lake, spark, redshi
 
 # Coming Soon!
 
-In the mean time, feel free to check out my Data Engineering Projects in my ![Github Repo](https://github.com/AuFeld/Data_Engineering_Projects)
+In the mean time, feel free to check out my progress in my Data Engineering Project [Github Repo](https://github.com/AuFeld/Data_Engineering_Projects).
