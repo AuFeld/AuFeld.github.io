@@ -2,7 +2,7 @@
 layout: post
 title: Dynamic Programming
 subtitle: A high level approach
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/mountain_path.jpg
 gh-repo: AuFeld
 tags: [dynamic programming, fibonacci]
 ---
@@ -120,3 +120,5 @@ This approach down not use recursion at all. We created an empty list of length 
 
 As you can see Dynamic Programming is very efficient for optimizing code. It is simple and easy to understand, however it will take practice to fully grasp its utilization. 
 
+
+Shout out to [Lili Popper](https://unsplash.com/photos/lu15z1m_KfM?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) for the great pic!
