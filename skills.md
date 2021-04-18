@@ -10,7 +10,7 @@ subtitle: Technical Skills
 * NoSQL: MongoDB
 * Frameworks: [FastAPI](https://github.com/AuFeld/fetch), [Flask](https://github.com/AuFeld/twitoff-app), and Heroku
 * Containerization with [Docker](https://github.com/AuFeld/fetch)
-* [Data Modeling with Apache Cassandra](https://github.com/AuFeld/Data_Engineering_Projects/tree/main/Data_Modeling_with_Cassandra)
+* Data Modeling with [Apache Cassandra](https://github.com/AuFeld/Data_Engineering_Projects/tree/main/Data_Modeling_with_Cassandra)
 * Python Libraries: Pandas and Numpy
 * Redis
 * ETL Pipelines with Apache Airflow
