@@ -13,7 +13,7 @@ subtitle: Technical Skills
 * Data Modeling with [Apache Cassandra](https://github.com/AuFeld/Data_Engineering_Projects/tree/main/Data_Modeling_with_Cassandra)
 * Python Libraries: Pandas and Numpy
 * Redis
-* [ETL Pipelines with Apache Airflow](https://github.com/AuFeld/Data_Engineering_Projects/tree/main/Airflow_Data_Pipelines)
+* [Data Pipelines with Apache Airflow](https://github.com/AuFeld/Data_Engineering_Projects/tree/main/Airflow_Data_Pipelines)
 * Monitoring with Grafana and Prometheus
 * Spark
 
