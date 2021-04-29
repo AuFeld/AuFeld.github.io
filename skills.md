@@ -13,7 +13,7 @@ subtitle: Technical Skills
 * Data Modeling with [Apache Cassandra](https://github.com/AuFeld/Data_Engineering_Projects/tree/main/Data_Modeling_with_Cassandra)
 * Python Libraries: Pandas and Numpy
 * Redis
-* ETL Pipelines with Apache Airflow
+* [ETL Pipelines with Apache Airflow](https://github.com/AuFeld/Data_Engineering_Projects/tree/main/Airflow_Data_Pipelines)
 * Monitoring with Grafana and Prometheus
 * Spark
 
@@ -27,12 +27,12 @@ subtitle: Technical Skills
 
 ## Cloud Computing with AWS
 
-* ML Deployment with Elastic Beanstalk
-* Storage: S3 and RDS
-* EC2
+* Storage with [S3 as a Data Lake](https://github.com/AuFeld/Data_Engineering_Projects/tree/main/Data_Lake)
+* Data Warehouse with [Redshift](https://github.com/AuFeld/Data_Engineering_Projects/edit/main/Redshift_Cluster_IaC.py)
+* Clustering with [Elastic MapReduce (EMR)](https://github.com/AuFeld/Data_Engineering_Projects/blob/main/Redshift_Cluster_IaC.py)
 * Elasticsearch
-* Elastic MapReduce (EMR)
-* [Redshift](https://github.com/AuFeld/Data_Engineering_Projects/edit/main/Redshift_Cluster_IaC.py)
+* EC2 
+* ML Deployment with Elastic Beanstalk
 
 ## Problem Solving with Computer Science
 
